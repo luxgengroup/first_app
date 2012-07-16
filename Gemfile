@@ -6,7 +6,6 @@ gem 'rails', '3.2.6'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 #Use SQLite Locally and PostgreSQL on Heroku
-
 group :development, :test do
   gem 'sqlite3'
 end
